@@ -74,15 +74,15 @@ You: What plans do you offer?
 You: The Pro plan sounds great, I want to sign up for my YouTube channel
 🤖 AutoStream: Awesome! Let's get you started. What's your name?
 
-You: John Doe
+You: Shreshti Mittal
 🤖 AutoStream: Nice to meet you, John! What's your email address?
 
-You: john@example.com
+You: shreshti@example.com
 🤖 AutoStream: Perfect! And which platform do you mainly create content for?
 
 You: YouTube
-✅ LEAD CAPTURED: John Doe, john@example.com, YouTube
-🤖 AutoStream: 🎉 You're all set, John! Our team will reach out shortly. Welcome to AutoStream!
+✅ LEAD CAPTURED: Shreshti Mittal, shreshti@example.com, YouTube
+🤖 AutoStream: 🎉 You're all set, Shreshti! Our team will reach out shortly. Welcome to AutoStream!
 ```
 
 ---
