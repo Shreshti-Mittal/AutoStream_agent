@@ -1,8 +1,6 @@
 # 🎬 AutoStream – Social-to-Lead AI Agent
 
-A conversational AI agent built for **AutoStream**, a fictional SaaS company offering automated video editing tools for content creators. This agent detects user intent, answers product questions using RAG, and captures qualified leads through tool execution.
-
-**Built for:** ServiceHive – Machine Learning Intern Assignment  
+A conversational AI agent built for **AutoStream**, a fictional SaaS company offering automated video editing tools for content creators. This agent detects user intent, answers product questions using RAG, and captures qualified leads through tool execution. 
 **Stack:** Python · LangGraph · GPT-4o-mini · RAG
 
 ---
